@@ -1,4 +1,73 @@
 {
+    "hall": [
+        {
+            "id": 0,
+            "title": "Nobis dolorem pariatur zaal",
+            "total_seats": 30,
+            "active": true
+        }
+    ],
+    "performance": [
+        {
+            "id": 0,
+            "title": "Real-time secured line",
+            "available_seats": 30,
+            "start": "2020-03-16 20:30:00",
+            "end": "2020-03-16 21:00:00",
+            "seats_taken": 0,
+            "hall_id": 0,
+            "hall_title": "Nobis dolorem pariatur zaal",
+            "artists": [
+                {
+                    "id": 0,
+                    "full_name": "Rachel Daniel",
+                    "artist_name": "Betsy Rau"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Focused zero tolerance hub",
+            "available_seats": 30,
+            "start": "2020-05-16 20:00:00",
+            "end": "2020-05-16 21:00:00",
+            "seats_taken": 10,
+            "hall_id": 0,
+            "hall_title": "Nobis dolorem pariatur zaal",
+            "artists": [
+                {
+                    "id": 1,
+                    "full_name": "Lance Howell",
+                    "artist_name": "Shyann Pollich"
+                },
+                {
+                    "id": 2,
+                    "full_name": "Krista Gleason",
+                    "artist_name": "Beer Harris and Quitzon"
+                }
+            ]
+        }
+    ],
+    "artist": [
+        {
+            "id": 0,
+            "full_name": "Rachel Daniel",
+            "artist_name": "Betsy Rau",
+            "image":"https://s3.amazonaws.com/uifaces/faces/twitter/terryxlife/128.jpg"
+        },
+        {
+            "id": 1,
+            "full_name": "Lance Howell",
+            "artist_name": "Shyann Pollich",
+            "image":"https://s3.amazonaws.com/uifaces/faces/twitter/cemshid/128.jpg"
+        },
+        {
+            "id": 2,
+            "full_name": "Krista Gleason",
+            "artist_name": "Beer Harris and Quitzon",
+            "image":"https://s3.amazonaws.com/uifaces/faces/twitter/trubeatto/128.jpg"
+        }
+    ],
     "posts": [
         {
             "id": 1,

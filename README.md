@@ -1,6 +1,9 @@
 # TEST_DATA
 
 This repository is used for retrieving data from a backend. These are the entities:
+* hall
+* performance
+* artist
 * posts
 * comments
 
@@ -16,6 +19,8 @@ curl --header \
 ```
 
 ## Javascript
+
+This API does't store the data. Because it is a online JSON server. When you host the data locally the data is seved to your locale server.
 
 ```javascript
   fetch('https://jsonplaceholder.typicode.com/posts', {
