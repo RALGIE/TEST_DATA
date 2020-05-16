@@ -53,48 +53,19 @@
             "id": 0,
             "full_name": "Rachel Daniel",
             "artist_name": "Betsy Rau",
-            "image":"https://s3.amazonaws.com/uifaces/faces/twitter/terryxlife/128.jpg"
+            "image": "https://s3.amazonaws.com/uifaces/faces/twitter/terryxlife/128.jpg"
         },
         {
             "id": 1,
             "full_name": "Lance Howell",
             "artist_name": "Shyann Pollich",
-            "image":"https://s3.amazonaws.com/uifaces/faces/twitter/cemshid/128.jpg"
+            "image": "https://s3.amazonaws.com/uifaces/faces/twitter/cemshid/128.jpg"
         },
         {
             "id": 2,
             "full_name": "Krista Gleason",
             "artist_name": "Beer Harris and Quitzon",
-            "image":"https://s3.amazonaws.com/uifaces/faces/twitter/trubeatto/128.jpg"
+            "image": "https://s3.amazonaws.com/uifaces/faces/twitter/trubeatto/128.jpg"
         }
-    ],
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
-        }
-    ],
-    "comments": [
-        {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
-        },
-        {
-            "id": 2,
-            "body": "some comment",
-            "postId": 1
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    }
+    ]
 }
