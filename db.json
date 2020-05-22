@@ -7,7 +7,7 @@
             "active": true
         }
     ],
-    "performance": [
+    "performances": [
         {
             "id": 0,
             "title": "Real-time secured line",
@@ -15,6 +15,21 @@
             "start": "2020-03-16 20:30:00",
             "end": "2020-03-16 21:00:00",
             "seats_taken": 0,
+            "short_description_body": "This is a short description No <a href='www.theteaterlandgraaf.nl' target='blank'>www.theteaterlandgraaf.nl</a>",
+            "long_description_body": "<div class='tekst'>
+            <br>
+<br>
+<font color='#000099'><em>“Tjonge tjonge wat was het een super avond gisteren en wat zijn jullie goed!!!<br>
+Het was werkelijk te gek!<br> 
+Wat een succes hadden jullie!<br> 
+Een groot dankjewel aan jullie drieën voor de fantastische muziek en jullie humor!”</em><br>(Recensies Theater Landgraaf 12 april 2019)</font><br><br>
+<br>Tijdens het Café Chantant op 12 april 2019 in Theater Landgraaf traden Sjeng, Sjer &amp; De Sjele op.<br>
+Zij zorgden voor een ware feeststemming! Onze bezoekers konden er maar geen genoeg van krijgen. Zij kregen dan ook een staande ovatie!<br>
+<br>Om nog meer mensen in de gelegenheid te stellen om hen te horen en te zien, komen Sjeng, Sjer &amp; De Sjele terug naar Theater Landgraaf.<br> <br>Sjeng en Sjer, een tweeling die al van kinds af aan graag samen muziek maken. Sjer op de gitaar, Sjeng op de accordeon en samen zingen. Vele uren, liters en kilometers zijn er intussen al in gaan zitten. Gianno (De Sjele) is bassist, gitarist, zanger en entertainer.<br><br>
+<font color='#990000'>In principe spelen ze met z’n drieën een mix van country, texmex, folk en rock &amp; roll.<br>Maar voor deze speciale gelegenheid spelen ze met vier extra gastmuzikanten.</font><br><br>Dus gegarandeerd een gezellige avond!
+<br>
+<br>
+<br>				</div>",
             "hall_id": 0,
             "hall_title": "Nobis dolorem pariatur zaal",
             "artists": [
@@ -32,6 +47,14 @@
             "start": "2020-05-16 20:00:00",
             "end": "2020-05-16 21:00:00",
             "seats_taken": 10,
+            "short_description_body": "This is a short description.",
+            "long_description_body": "Het theaterseizoen van Theater Landgraaf wordt elk jaar afgesloten met maar liefst 6 verschillende presentaties door de diverse lesgroepen van de jeugdtheaterschool.
+            Omdat het geweldig is om op een podium te staan en applaus te krijgen, maar ook om te laten zien wat de cursisten het afgelopen seizoen geleerd hebben.\n
+            \n
+            De lesgroepen 1 t/m 5 en Basis-Musical-Lesklas bijten traditioneel het spits af.\n
+            \n
+            Laat u verrassen door hun tomeloze enthousiasme en speelplezier!
+            Wat de leerlingen dit seizoen voor u in petto hebben is bij het ter perse gaan van de jaarbrochure nog niet bekend, raadpleeg daarom te zijner tijd deze website óf www.jeugdtheaterlandgraaf.nl voor meer informatie.",
             "hall_id": 0,
             "hall_title": "Nobis dolorem pariatur zaal",
             "artists": [
