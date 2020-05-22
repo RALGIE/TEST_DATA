@@ -12,7 +12,7 @@ curl --header \
   "Content-Type: application/json" \
   --request POST \
   --data '{"id": 4,"title":"new title"}' \
-  https://my-json-server.typicode.com/RALGIE/TEST_DATA/hall
+  https://my-json-server.typicode.com/RALGIE/TEST_DATA/performance
 
 ```
 
@@ -21,7 +21,7 @@ curl --header \
 This API does't store the data. Because it is a online JSON server. When you host the data locally the data is seved to your locale server.
 
 ```javascript
-  fetch('https://jsonplaceholder.typicode.com/performance', {
+  fetch('https://jsonplaceholder.typicode.com/RALGIE/TEST_DATA/performance', {
     method: 'POST',
     body: JSON.stringify({
       title: 'foo',
