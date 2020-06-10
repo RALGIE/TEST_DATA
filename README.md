@@ -21,7 +21,7 @@ curl --header \
 This API does't store the data. Because it is a online JSON server. When you host the data locally the data is seved to your locale server.
 
 ```javascript
-  fetch('https://jsonplaceholder.typicode.com/RALGIE/TEST_DATA/performance', {
+  fetch('https://my-json-server.typicode.com/RALGIE/TEST_DATA/performances', {
     method: 'POST',
     body: JSON.stringify({
       title: 'foo',
